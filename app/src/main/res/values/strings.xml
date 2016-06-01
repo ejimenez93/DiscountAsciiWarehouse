@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Discount Ascii Warehouse</string>
+    <string name="app_name_shortened">D.A.W.</string>
+    <string name="inventory">Inventory</string>
+    <string name="search_menu">Search</string>
+    <string name="searchable_label">Search Our Warehouse Inventory</string>
+    <string name="searchable_hint">Search by Tags</string>
+    <string name="action_search">Search</string>
+    <string name="button_on">Added to Cart!</string>
+    <string name="button_off">Buy Now!</string>
+    <string name="button_disabled">Out of Stock!</string>
+    <string name="no_results_label">No Results!</string>
+    <string name="no_results">No faces found with the criteria above. Please try your search again!</string>
+    <string name="instructions">Tap on the magnifying glass icon above to search for faces in our warehouse</string>
+    <string name="loading">Retrieving Faces...</string>
+    <string name="cleared_success">All filters and results have been cleared!</string>
+    <string name="action_customize">Customize</string>
+    <string name="search_options">Search Options</string>
+    <string name="cancel">Cancel</string>
+    <string name="okay">Okay</string>
+    <string name="clear_all">Clear All Results and Filters</string>
+    <string-array name="stock_options">
+        <item>All Faces</item>
+        <item>In-Stock Only</item>
+    </string-array>
+</resources>

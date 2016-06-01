@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dawPrimaryBackgroundColor">@color/md_blue_grey_700</color>
+    <color name="dawSecondaryBackgroundColor">@color/md_blue_grey_900</color>
+    <color name="dawBackgroundColor">@color/md_white_1000</color>
+    <color name="dawPrimaryTextColor">@color/md_white_1000</color>
+    <color name="dawSecondaryTextColor">@color/md_black_1000</color>
+    <color name="dawToggleButtonOff">#666666</color>
+    <color name="dawToggleButtonOn">#D03F2D</color>
+    <color name="dawFaceBackground">#EFEFEF</color>
+    <color name="dawToggleButtonDisabled">@color/md_grey_400</color>
+</resources>
